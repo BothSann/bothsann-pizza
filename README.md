@@ -9,8 +9,23 @@ This is my first project using the React framework, where I'm building a pizza-r
 ## 🛠️ Getting Started
 
 1. Clone the repository
-2. Run `npm install`
-3. Run `npm start` to start the development server
+
+```bash
+git clone [https://github.com/BothSann/bothsann-pizza.git]
+```
+
+2. Install dependencies
+
+```bash
+npm install
+```
+
+3. Start the development server
+
+```bash
+npm start
+```
+
 4. Open [http://localhost:3000](http://localhost:3000) to view it in your browser
 
 ## ⚙️ Available Scripts
@@ -25,8 +40,8 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## 👨‍💻 Built By
 
-THANN SOPHEAKBOTH as part of an online learning course by Jonas Schmedtmann.
+This project was built by **THANN SOPHEAKBOTH** as part of an online learning course by [Jonas Schmedtmann](https://codingheroes.io/).
 
 ## ©️ Copyright
 
-© Copyright by Jonas Schmedtmann. This project is for educational purposes only and cannot be used for commercial purposes.
+© Copyright by **Jonas Schmedtmann**. This project is for educational purposes only and cannot be used for commercial purposes.
