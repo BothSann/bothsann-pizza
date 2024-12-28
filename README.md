@@ -1,4 +1,4 @@
-# 🍕 BothSann Pizza Project
+# Both Sann's Pizza Menu 🍕
 
 A simple ReactJS project - my first adventure into React development!
 
