@@ -6,6 +6,11 @@ A simple ReactJS project - my first adventure into React development!
 
 This is my first project using the React framework, where I'm building a pizza-related application to learn and practice React concepts.
 
+## 📸 Screenshots
+
+![Homepage](./public/screenshot.JPG)
+_Homepage of BothSann Pizza_
+
 ## 🛠️ Getting Started
 
 1. Clone the repository
